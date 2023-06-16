@@ -104,7 +104,7 @@ Test a R\*CNN classifier
 
 5. Trained models
 	
-	Download the models as described in the paper from [here](https://www.dropbox.com/s/ga2ojf2j7vsmjcf/trained_models.tar.gz?dl=0) (3.6G)
+	
 
 
 
